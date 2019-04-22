@@ -16,6 +16,7 @@ elseif($n%2==0 and 2<=$n and $n<=5)
 elseif($n%2==0 and 6<=$n and $n<=20)
 {
      echo "C";
+     WERTYUIOP
 }
 elseif($n%2==0 and $n>=20)
 {
