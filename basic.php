@@ -21,6 +21,7 @@ elseif($n%2==0 and 6<=$n and $n<=20)
 elseif($n%2==0 and $n>=20)
 {
      echo "D";
+     Suganthikumar
 } */
 ?>	
 
