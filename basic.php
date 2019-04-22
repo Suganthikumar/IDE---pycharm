@@ -4,6 +4,7 @@
  
 <?php
 /* $n=8;
+suganthikumar
 if($n%2!=0)
 {
 	echo "A";
