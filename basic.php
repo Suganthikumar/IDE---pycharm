@@ -11,6 +11,7 @@ if($n%2!=0)
 elseif($n%2==0 and 2<=$n and $n<=5)
 {
     echo "B";
+     echo "E";
 }
 elseif($n%2==0 and 6<=$n and $n<=20)
 {
